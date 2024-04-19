@@ -1,0 +1,17 @@
+
+        **Localização do Usuário:**
+
+        País: Brazil
+        Código do País: BR
+        Região: GO
+        Nome da Região: Goiás
+        Cidade: Cristalina
+        CEP: 73850
+        Latitude: -16.7537
+        Longitude: -47.4976
+        Fuso Horário: America/Sao_Paulo
+        ISP: TG COMUNICACOES LTDA - ME
+        Organização: TG COMUNICACOES LTDA - ME
+        AS: AS267022 TG COMUNICACOES LTDA - ME
+        IP: 45.226.241.45
+      
